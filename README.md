@@ -46,6 +46,10 @@ Deduplication hashes normalized identifying fields. Books use `source + title`; 
 - `output/summary_report.json`: scrape, clean, rejection, duplicate, final-count, and timing metrics per source and overall.
 - `logs/scraper.log`: timestamped requests, page progress, warnings, and errors.
 
+## Free Render deployment
+
+Render's free tier does not support Cron Jobs. The included `render.yaml` therefore defines a free Web Service using `web_service.py`. The service starts the scraper in the background and exposes a small health response on Render's assigned port. Free services may sleep or restart, so this is suitable for a demonstration run rather than reliable scheduled execution. The local command remains `python main.py`.
+
 Run offline tests with:
 
 ```text
