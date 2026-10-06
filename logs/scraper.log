@@ -1,0 +1,363 @@
+2026-10-06 20:14:39,174 INFO scrapers.base_scraper: Processing page 1: https://books.toscrape.com/
+2026-10-06 20:14:39,174 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/
+2026-10-06 20:14:46,953 INFO scrapers.base_scraper: Processing page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 20:14:46,953 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 20:14:49,006 INFO scrapers.base_scraper: Processing page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 20:14:49,006 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 20:14:50,891 INFO scrapers.base_scraper: Processing page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 20:14:50,893 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 20:14:52,784 INFO scrapers.base_scraper: Processing page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 20:14:52,784 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 20:14:54,712 INFO scrapers.base_scraper: Processing page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 20:14:54,712 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 20:14:56,404 INFO scrapers.base_scraper: Processing page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 20:14:56,404 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 20:15:05,845 INFO scrapers.base_scraper: Processing page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 20:15:05,845 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 20:15:08,189 INFO scrapers.base_scraper: Processing page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 20:15:08,190 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 20:15:09,819 INFO scrapers.base_scraper: Processing page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 20:15:09,819 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 20:15:11,448 INFO scrapers.base_scraper: Processing page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 20:15:11,448 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 20:15:12,775 INFO scrapers.base_scraper: Processing page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 20:15:12,775 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 20:15:14,371 INFO scrapers.base_scraper: Processing page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 20:15:14,372 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 20:15:15,916 INFO scrapers.base_scraper: Processing page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 20:15:15,917 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 20:15:17,434 INFO scrapers.base_scraper: Processing page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 20:15:17,434 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 20:15:18,672 INFO scrapers.base_scraper: Processing page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 20:15:18,673 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 20:15:20,166 INFO scrapers.base_scraper: Processing page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 20:15:20,167 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 20:15:21,603 INFO scrapers.base_scraper: Processing page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 20:15:21,604 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 20:15:23,610 INFO scrapers.base_scraper: Processing page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 20:15:23,610 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 20:15:25,619 INFO scrapers.base_scraper: Processing page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 20:15:25,619 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 20:15:29,211 INFO scrapers.base_scraper: Processing page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 20:15:29,212 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 20:15:30,499 INFO scrapers.base_scraper: Processing page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 20:15:30,499 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 20:15:31,806 INFO scrapers.base_scraper: Processing page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 20:15:31,807 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 20:15:33,052 INFO scrapers.base_scraper: Processing page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 20:15:33,053 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 20:15:34,644 INFO scrapers.base_scraper: Processing page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 20:15:34,645 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 20:15:36,017 INFO scrapers.base_scraper: Processing page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 20:15:36,017 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 20:15:37,281 INFO scrapers.base_scraper: Processing page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 20:15:37,282 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 20:15:38,699 INFO scrapers.base_scraper: Processing page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 20:15:38,700 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 20:15:40,058 INFO scrapers.base_scraper: Processing page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 20:15:40,058 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 20:15:43,159 INFO scrapers.base_scraper: Processing page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 20:15:43,160 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 20:15:44,413 INFO scrapers.base_scraper: Processing page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 20:15:44,413 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 20:15:45,815 INFO scrapers.base_scraper: Processing page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 20:15:45,816 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 20:15:47,050 INFO scrapers.base_scraper: Processing page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 20:15:47,050 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 20:15:48,466 INFO scrapers.base_scraper: Processing page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 20:15:48,467 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 20:15:49,987 INFO scrapers.base_scraper: Processing page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 20:15:49,987 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 20:15:51,629 INFO scrapers.base_scraper: Processing page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 20:15:51,629 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 20:15:53,413 INFO scrapers.base_scraper: Processing page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 20:15:53,413 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 20:15:54,949 INFO scrapers.base_scraper: Processing page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 20:15:54,949 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 20:15:56,652 INFO scrapers.base_scraper: Processing page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 20:15:56,653 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 20:15:58,350 INFO scrapers.base_scraper: Processing page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 20:15:58,350 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 20:15:59,972 INFO scrapers.base_scraper: Processing page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 20:15:59,972 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 20:16:01,772 INFO scrapers.base_scraper: Processing page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 20:16:01,772 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 20:16:03,325 INFO scrapers.base_scraper: Processing page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 20:16:03,326 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 20:16:05,193 INFO scrapers.base_scraper: Processing page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 20:16:05,193 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 20:16:07,085 INFO scrapers.base_scraper: Processing page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 20:16:07,085 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 20:16:08,690 INFO scrapers.base_scraper: Processing page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 20:16:08,690 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 20:16:10,219 INFO scrapers.base_scraper: Processing page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 20:16:10,220 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 20:16:11,652 INFO scrapers.base_scraper: Processing page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 20:16:11,652 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 20:16:13,173 INFO scrapers.base_scraper: Processing page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 20:16:13,173 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 20:16:14,703 INFO scrapers.base_scraper: Processing page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 20:16:14,703 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 20:16:15,941 INFO scrapers.base_scraper: Processing page 1: https://quotes.toscrape.com/
+2026-10-06 20:16:15,942 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/
+2026-10-06 20:16:18,847 INFO scrapers.base_scraper: Processing page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 20:16:18,847 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/2/
+2026-10-06 20:16:19,728 INFO scrapers.base_scraper: Processing page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 20:16:19,729 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/3/
+2026-10-06 20:16:20,737 INFO scrapers.base_scraper: Processing page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 20:16:20,737 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/4/
+2026-10-06 20:16:21,653 INFO scrapers.base_scraper: Processing page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 20:16:21,654 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/5/
+2026-10-06 20:16:22,638 INFO scrapers.base_scraper: Processing page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 20:16:22,639 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/6/
+2026-10-06 20:16:23,511 INFO scrapers.base_scraper: Processing page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 20:16:23,511 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/7/
+2026-10-06 20:16:24,619 INFO scrapers.base_scraper: Processing page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 20:16:24,619 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/8/
+2026-10-06 20:16:25,823 INFO scrapers.base_scraper: Processing page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 20:16:25,823 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/9/
+2026-10-06 20:16:27,195 INFO scrapers.base_scraper: Processing page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 20:16:27,195 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/10/
+2026-10-06 20:16:28,633 INFO __main__: Wrote 1099 final records
+2026-10-06 21:21:35,672 INFO scrapers.base_scraper: Processing page 1: https://books.toscrape.com/
+2026-10-06 21:21:35,673 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/
+2026-10-06 21:21:49,289 INFO scrapers.base_scraper: Processing page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:21:49,291 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:21:52,274 INFO scrapers.base_scraper: Processing page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:21:52,275 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:21:58,699 INFO scrapers.base_scraper: Processing page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:21:58,700 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:22:01,019 INFO scrapers.base_scraper: Processing page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:22:01,020 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:22:02,439 INFO scrapers.base_scraper: Processing page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:22:02,440 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:22:04,076 INFO scrapers.base_scraper: Processing page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:22:04,076 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:22:06,815 INFO scrapers.base_scraper: Processing page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:22:06,817 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:22:08,457 INFO scrapers.base_scraper: Processing page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:22:08,458 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:22:10,177 INFO scrapers.base_scraper: Processing page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:22:10,182 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:22:17,993 INFO scrapers.base_scraper: Processing page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:22:17,995 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:22:25,349 INFO scrapers.base_scraper: Processing page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:22:25,350 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:22:27,924 INFO scrapers.base_scraper: Processing page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:22:27,927 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:22:29,875 INFO scrapers.base_scraper: Processing page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:22:29,876 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:22:33,169 INFO scrapers.base_scraper: Processing page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:22:33,170 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:22:34,795 INFO scrapers.base_scraper: Processing page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:22:34,797 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:22:36,410 INFO scrapers.base_scraper: Processing page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:22:36,411 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:22:39,086 INFO scrapers.base_scraper: Processing page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:22:39,086 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:22:48,783 INFO scrapers.base_scraper: Processing page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:22:48,784 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:22:50,901 INFO scrapers.base_scraper: Processing page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:22:50,902 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:22:52,469 INFO scrapers.base_scraper: Processing page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:22:52,470 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:22:54,943 INFO scrapers.base_scraper: Processing page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:22:54,943 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:22:57,391 INFO scrapers.base_scraper: Processing page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:22:57,392 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:23:00,325 INFO scrapers.base_scraper: Processing page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:23:00,329 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:23:02,335 INFO scrapers.base_scraper: Processing page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:23:02,337 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:23:04,271 INFO scrapers.base_scraper: Processing page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:23:04,275 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:23:05,844 INFO scrapers.base_scraper: Processing page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:23:05,845 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:23:08,176 INFO scrapers.base_scraper: Processing page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:23:08,178 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:23:09,715 INFO scrapers.base_scraper: Processing page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:23:09,716 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:23:11,456 INFO scrapers.base_scraper: Processing page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:23:11,457 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:23:14,888 INFO scrapers.base_scraper: Processing page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:23:14,888 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:23:20,584 INFO scrapers.base_scraper: Processing page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:23:20,584 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:23:22,584 INFO scrapers.base_scraper: Processing page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:23:22,585 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:23:25,104 INFO scrapers.base_scraper: Processing page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:23:25,105 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:23:26,942 INFO scrapers.base_scraper: Processing page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:23:26,942 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:23:28,763 INFO scrapers.base_scraper: Processing page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:23:28,764 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:23:30,752 INFO scrapers.base_scraper: Processing page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:23:30,752 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:23:33,050 INFO scrapers.base_scraper: Processing page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:23:33,052 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:23:34,750 INFO scrapers.base_scraper: Processing page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:23:34,751 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:23:37,065 INFO scrapers.base_scraper: Processing page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:23:37,066 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:23:38,422 INFO scrapers.base_scraper: Processing page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:23:38,423 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:23:40,044 INFO scrapers.base_scraper: Processing page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:23:40,045 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:23:41,674 INFO scrapers.base_scraper: Processing page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:23:41,675 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:23:42,696 INFO scrapers.base_scraper: Processing page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:23:42,697 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:23:44,338 INFO scrapers.base_scraper: Processing page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:23:44,339 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:23:46,695 INFO scrapers.base_scraper: Processing page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:23:46,695 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:23:52,716 INFO scrapers.base_scraper: Processing page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:23:52,721 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:24:11,048 INFO scrapers.base_scraper: Processing page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:24:11,048 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:24:16,246 INFO scrapers.base_scraper: Processing page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:24:16,246 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:24:19,137 INFO scrapers.base_scraper: Processing page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:24:19,138 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:24:23,893 INFO scrapers.base_scraper: Processing page 1: https://quotes.toscrape.com/
+2026-10-06 21:24:23,893 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/
+2026-10-06 21:24:29,707 INFO scrapers.base_scraper: Processing page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 21:24:29,708 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/2/
+2026-10-06 21:24:53,565 INFO scrapers.base_scraper: Processing page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 21:24:53,566 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/3/
+2026-10-06 21:25:00,085 INFO scrapers.base_scraper: Processing page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 21:25:00,092 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/4/
+2026-10-06 21:25:02,617 INFO scrapers.base_scraper: Processing page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 21:25:02,617 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/5/
+2026-10-06 21:25:10,152 INFO scrapers.base_scraper: Processing page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 21:25:10,153 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/6/
+2026-10-06 21:25:12,129 INFO scrapers.base_scraper: Processing page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 21:25:12,129 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/7/
+2026-10-06 21:25:14,315 INFO scrapers.base_scraper: Processing page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 21:25:14,316 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/8/
+2026-10-06 21:25:19,682 INFO scrapers.base_scraper: Processing page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 21:25:19,682 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/9/
+2026-10-06 21:25:22,629 INFO scrapers.base_scraper: Processing page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 21:25:22,630 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/10/
+2026-10-06 21:25:24,783 INFO __main__: Wrote 1099 final records
+2026-10-06 21:32:19,020 INFO scrapers.base_scraper: Processing page 1: https://books.toscrape.com/
+2026-10-06 21:32:19,020 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/
+2026-10-06 21:32:21,694 INFO scrapers.base_scraper: Processing page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:32:21,694 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:32:22,954 INFO scrapers.base_scraper: Processing page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:32:22,955 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:32:24,382 INFO scrapers.base_scraper: Processing page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:32:24,383 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:32:25,596 INFO scrapers.base_scraper: Processing page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:32:25,597 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:32:27,935 INFO scrapers.base_scraper: Processing page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:32:27,935 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:32:29,170 INFO scrapers.base_scraper: Processing page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:32:29,171 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:32:30,117 INFO scrapers.base_scraper: Processing page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:32:30,117 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:32:31,021 INFO scrapers.base_scraper: Processing page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:32:31,021 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:32:32,362 INFO scrapers.base_scraper: Processing page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:32:32,362 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:32:33,685 INFO scrapers.base_scraper: Processing page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:32:33,686 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:32:35,373 INFO scrapers.base_scraper: Processing page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:32:35,375 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:32:37,375 INFO scrapers.base_scraper: Processing page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:32:37,376 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:32:38,750 INFO scrapers.base_scraper: Processing page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:32:38,751 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:32:40,168 INFO scrapers.base_scraper: Processing page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:32:40,169 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:32:41,716 INFO scrapers.base_scraper: Processing page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:32:41,718 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:32:46,408 INFO scrapers.base_scraper: Processing page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:32:46,409 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:32:48,273 INFO scrapers.base_scraper: Processing page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:32:48,273 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:32:49,831 INFO scrapers.base_scraper: Processing page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:32:49,831 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:32:51,438 INFO scrapers.base_scraper: Processing page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:32:51,440 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:32:52,944 INFO scrapers.base_scraper: Processing page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:32:52,947 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:32:54,393 INFO scrapers.base_scraper: Processing page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:32:54,394 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:32:55,661 INFO scrapers.base_scraper: Processing page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:32:55,661 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:32:56,942 INFO scrapers.base_scraper: Processing page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:32:56,943 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:32:58,174 INFO scrapers.base_scraper: Processing page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:32:58,175 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:32:59,423 INFO scrapers.base_scraper: Processing page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:32:59,424 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:33:01,398 INFO scrapers.base_scraper: Processing page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:33:01,400 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:33:02,462 INFO scrapers.base_scraper: Processing page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:33:02,463 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:33:04,555 INFO scrapers.base_scraper: Processing page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:33:04,557 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:33:05,591 INFO scrapers.base_scraper: Processing page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:33:05,591 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:33:06,656 INFO scrapers.base_scraper: Processing page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:33:06,657 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:33:07,739 INFO scrapers.base_scraper: Processing page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:33:07,740 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:33:08,854 INFO scrapers.base_scraper: Processing page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:33:08,855 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:33:09,905 INFO scrapers.base_scraper: Processing page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:33:09,906 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:33:10,952 INFO scrapers.base_scraper: Processing page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:33:10,953 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:33:12,490 INFO scrapers.base_scraper: Processing page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:33:12,492 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:33:14,713 INFO scrapers.base_scraper: Processing page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:33:14,714 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:33:16,471 INFO scrapers.base_scraper: Processing page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:33:16,471 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:33:18,795 INFO scrapers.base_scraper: Processing page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:33:18,796 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:33:19,788 INFO scrapers.base_scraper: Processing page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:33:19,788 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:33:20,822 INFO scrapers.base_scraper: Processing page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:33:20,824 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:33:21,937 INFO scrapers.base_scraper: Processing page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:33:21,939 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:33:23,377 INFO scrapers.base_scraper: Processing page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:33:23,378 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:33:24,852 INFO scrapers.base_scraper: Processing page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:33:24,853 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:33:26,428 INFO scrapers.base_scraper: Processing page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:33:26,429 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:33:27,988 INFO scrapers.base_scraper: Processing page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:33:27,989 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:33:29,828 INFO scrapers.base_scraper: Processing page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:33:29,829 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:33:31,196 INFO scrapers.base_scraper: Processing page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:33:31,196 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:33:32,666 INFO scrapers.base_scraper: Processing page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:33:32,666 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:33:33,981 INFO scrapers.base_scraper: Processing page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:33:33,982 INFO scrapers.base_scraper: Requesting https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:33:35,543 INFO scrapers.base_scraper: Processing page 1: https://quotes.toscrape.com/
+2026-10-06 21:33:35,544 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/
+2026-10-06 21:33:39,248 INFO scrapers.base_scraper: Processing page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 21:33:39,249 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/2/
+2026-10-06 21:33:41,582 INFO scrapers.base_scraper: Processing page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 21:33:41,583 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/3/
+2026-10-06 21:33:42,856 INFO scrapers.base_scraper: Processing page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 21:33:42,857 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/4/
+2026-10-06 21:33:44,223 INFO scrapers.base_scraper: Processing page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 21:33:44,227 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/5/
+2026-10-06 21:33:45,465 INFO scrapers.base_scraper: Processing page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 21:33:45,466 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/6/
+2026-10-06 21:33:46,828 INFO scrapers.base_scraper: Processing page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 21:33:46,829 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/7/
+2026-10-06 21:33:48,027 INFO scrapers.base_scraper: Processing page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 21:33:48,028 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/8/
+2026-10-06 21:33:49,608 INFO scrapers.base_scraper: Processing page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 21:33:49,609 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/9/
+2026-10-06 21:33:51,025 INFO scrapers.base_scraper: Processing page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 21:33:51,025 INFO scrapers.base_scraper: Requesting https://quotes.toscrape.com/page/10/
+2026-10-06 21:33:52,348 INFO __main__: Wrote 1099 final records

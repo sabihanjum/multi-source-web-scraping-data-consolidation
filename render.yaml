@@ -1,0 +1,11 @@
+services:
+  - type: cron
+    name: multi-source-web-scraper
+    runtime: python
+    plan: starter
+    schedule: "0 0 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.0
